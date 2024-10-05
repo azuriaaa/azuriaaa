@@ -1,3 +1,3 @@
-# Graphic Designer & Video Editor.
+# Learning how to fucking code.
 
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=azuriaaa&langs_count=5&theme=tokyonight)]()
+  [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=azuriaaa&langs_count=5&theme=tokyonight)]()
